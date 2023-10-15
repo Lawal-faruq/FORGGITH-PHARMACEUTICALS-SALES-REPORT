@@ -111,11 +111,15 @@ City-wise, Butzbach emerges as a standout revenue contributor, injecting a subst
 The Pharmacy channel takes center stage in sales, commanding 52.9% of the market share.
 To provide deeper insights, a dynamic tooltip enriches the Total Revenue by Sales Channel. This feature unveils the top three sales representatives, showcasing their individual revenue contributions. Additionally, a detailed breakdown of quantity sold by product name enhances understanding of sales performance.
 
+![Image 11](https://github.com/Lawal-faruq/FORGGITH-PHARMACEUTICALS-SALES-REPORT/assets/107109677/eb081b0e-6a89-4648-b909-4215e63ba63e)
 
 The Product Page, a detailed exploration of sales representative performance unfolds, delving into the attainment of revenue targets.
 
 The focal point of this analysis is the comparison between designated revenue targets and the actual revenue achieved by each sales representative. This scrutiny provides a nuanced understanding of individual performances, shedding light on areas of success and potential growth.
+
 On the Total Revenue by Product Name chart, Ionclotide emerges as the standout product, contributing a remarkable $168 million to the company's revenue stream.
 Adding a layer of interactivity, a dynamic tooltip enhances the user experience. Hovering over the chart unveils the top ten cities driving product sales, complete with insights into total quantity sold and the achievement percentage against predefined targets.
+
 This Product Page serves as a comprehensive narrative, guiding stakeholders through the intricacies of sales representative performances and highlighting top-performing products.
 
+You Can interact with the dashboard here
