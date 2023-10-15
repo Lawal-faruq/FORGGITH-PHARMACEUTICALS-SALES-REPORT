@@ -38,4 +38,11 @@ This document outlines the key insights that Forggith Pharmaceuticals seeks to d
 # **Project Methodology**
 Understanding the Dataset:
 
-In undertaking this Power BI project for Forggith Pharmaceuticals, I adhered to a systematic methodology aimed at solving real-life data analysis challenges. The initial phase involved a comprehensive exploration of the dataset, wherein I meticulously deciphered the meaning of each column. This process culminated in the creation of a detailed data dictionary, providing a foundational understanding of the dataset's intricacies.
+In undertaking this Power BI project for Forggith Pharmaceuticals, I adhered to a systematic methodology aimed at solving real-life data analysis challenges. The initial phase involved a comprehensive exploration of the dataset, wherein I meticulously deciphered the meaning of each column. This process culminated in the creation of a detailed data dictionary, providing a foundational understanding of the dataset's intricacies. The data dictionary image is shown below:
+
+![Image 1](https://github.com/Lawal-faruq/FORGGITH-PHARMACEUTICALS-SALES-REPORT/assets/107109677/b466b172-7203-477c-af5b-748f9ece94fc)
+
+# **Dashboard Design Blueprint** 
+From Concept to Creation:
+
+Having meticulously grasped the nuances of the dataset, traversing from the fact table to dimension tables, the next pivotal step in the project was to conceptualize the final dashboard. Armed with insights derived from the data, I translated ideas into a tangible form by crafting a detailed template. This process involved the humble yet effective tools of pen and paper, allowing for a visual representation that served as the guiding blueprint for the forthcoming Power BI dashboard.
