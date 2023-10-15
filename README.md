@@ -37,4 +37,5 @@ This document outlines the key insights that Forggith Pharmaceuticals seeks to d
 
 # **Project Methodology**
 Understanding the Dataset:
+
 In undertaking this Power BI project for Forggith Pharmaceuticals, I adhered to a systematic methodology aimed at solving real-life data analysis challenges. The initial phase involved a comprehensive exploration of the dataset, wherein I meticulously deciphered the meaning of each column. This process culminated in the creation of a detailed data dictionary, providing a foundational understanding of the dataset's intricacies.
