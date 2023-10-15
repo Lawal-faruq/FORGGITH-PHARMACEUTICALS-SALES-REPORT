@@ -82,3 +82,10 @@ With the data now cleansed and transformed to its optimal state, the focus seaml
 The fact tables, brimming with essential transactional data, are intricately modeled to capture nuanced relationships and dependencies. Simultaneously, dimension tables, housing key descriptors, are shaped to provide context and granularity to the analysis.
 
 This intricate interplay between fact and dimension tables serves as the bedrock upon which subsequent analyses and the final Power BI dashboard are constructed.
+
+![Image 7](https://github.com/Lawal-faruq/FORGGITH-PHARMACEUTICALS-SALES-REPORT/assets/107109677/7d2caef5-07dc-401a-95cc-7e81762bc507)
+
+# **Measures**
+With the data meticulously modeled, the focus shifts to the creation of indispensable measures that form the quantitative backbone of the analysis. A comprehensive suite of measures is strategically devised, catering to the diverse analytical needs of the project.
+From fundamental metrics such as total revenue to nuanced indicators like revenue Year-to-Date (YTD), each measure is thoughtfully constructed to distill actionable insights. This meticulous process not only ensures accuracy in reporting but also empowers stakeholders with the precise metrics crucial for strategic decision-making.
+
