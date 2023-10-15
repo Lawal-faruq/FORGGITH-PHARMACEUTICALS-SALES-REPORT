@@ -43,9 +43,13 @@ In undertaking this Power BI project for Forggith Pharmaceuticals, I adhered to 
 ![Image 1](https://github.com/Lawal-faruq/FORGGITH-PHARMACEUTICALS-SALES-REPORT/assets/107109677/b466b172-7203-477c-af5b-748f9ece94fc)
 
 # **Dashboard Design Blueprint** 
-From Concept to Creation:
 
 Having meticulously grasped the nuances of the dataset, traversing from the fact table to dimension tables, the next pivotal step in the project was to conceptualize the final dashboard. Armed with insights derived from the data, I translated ideas into a tangible form by crafting a detailed template. This process involved the humble yet effective tools of pen and paper, allowing for a visual representation that served as the guiding blueprint for the forthcoming Power BI dashboard.
 
-![Image 2](https://github.com/Lawal-faruq/FORGGITH-PHARMACEUTICALS-SALES-REPORT/assets/107109677/43658a3f-9c2f-4757-bfa2-1c7062add7c5)
+![Image 2](https://github.com/Lawal-faruq/FORGGITH-PHARMACEUTICALS-SALES-REPORT/assets/107109677/d148a7f5-28b4-4cab-8b37-026c1e43a7f6)
+
+# **Data Cleaning and Transformation**
+With the dataset thoroughly understood and the dashboard design envisioned, the subsequent focus shifted to ensuring the data's integrity and relevance. Leveraging Power Query, I meticulously executed data cleaning and transformation processes, mitigating the risk of errors in subsequent stages.
+
+A pivotal facet of the transformation centered on the Target table, a linchpin in our analysis. The current state of the Target data, as illustrated below, posed challenges to the depth of our insights. Consequently, strategic transformations were applied to elevate the data's quality, setting the stage for robust analysis and informed decision-making.
 
