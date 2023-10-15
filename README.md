@@ -93,3 +93,20 @@ From fundamental metrics such as total revenue to nuanced indicators like revenu
 
 Then to analysis proper…
 
+![Image 9](https://github.com/Lawal-faruq/FORGGITH-PHARMACEUTICALS-SALES-REPORT/assets/107109677/deaedf36-7d50-44ad-880c-800731d11970)
+
+The culmination of the analysis reveals a panoramic view of Forggith Pharmaceuticals' performance. The total revenue across all years stands at a substantial $11.41 billion, with 2024 emerging as the most prosperous fiscal year. However, a notable observation surfaces as a 7.3% decline in revenue is noted between 2024 and 2025, signaling a pivotal aspect demanding strategic attention.
+
+Key Highlights:
+ * The product category wielding the highest revenue for the current year is Antiseptics, boasting a commendable total revenue of $532 million.
+ * A standout performer in the sales team, Stella Given, demonstrates exceptional prowess, surpassing previous achievements.
+This page serves as a valuable lens for external stakeholders, providing a comprehensive snapshot of Forggith Pharmaceuticals' business performance. The nuanced insights empower decision-makers to gauge the company's trajectory, identify areas of strength, and address challenges strategically.
+
+
+Within the Executive Page, a nuanced exploration of revenue dynamics reveals compelling trends for Forggith Pharmaceuticals.
+The foremost revenue generator is the Analgesics product category, boasting an impressive $2.31 billion, closely followed by Antiseptics, contributing significantly with $2.15 billion.
+City-wise, Butzbach emerges as a standout revenue contributor, injecting a substantial $96 million into the company's financial stream.
+The Pharmacy channel takes center stage in sales, commanding 52.9% of the market share.
+To provide deeper insights, a dynamic tooltip enriches the Total Revenue by Sales Channel. This feature unveils the top three sales representatives, showcasing their individual revenue contributions. Additionally, a detailed breakdown of quantity sold by product name enhances understanding of sales performance.
+
+This executive-level overview equips leadership with a comprehensive understanding of critical revenue drivers, facilitating strategic decision-making.
