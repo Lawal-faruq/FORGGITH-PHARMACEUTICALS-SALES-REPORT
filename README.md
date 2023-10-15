@@ -73,3 +73,12 @@ The journey to refine the Target table continued with a pivotal step—merging t
 
 In the concluding phase of Target table transformation, meticulous attention was devoted to refining datatypes. Specifically, the month column underwent a transformation, transitioning into a date datatype. This final adjustment not only ensures data consistency but also aligns with the standardized format conducive to seamless integration within the Power BI framework.
 
+![Image 6](https://github.com/Lawal-faruq/FORGGITH-PHARMACEUTICALS-SALES-REPORT/assets/107109677/040d007c-a3fb-4d99-a409-d13fb40f8bed)
+
+# **Data Modeling:**
+
+With the data now cleansed and transformed to its optimal state, the focus seamlessly transitions to the vital stage of data modeling. This phase involves the meticulous structuring of both fact and dimension tables, laying the foundation for a robust analytical framework.
+
+The fact tables, brimming with essential transactional data, are intricately modeled to capture nuanced relationships and dependencies. Simultaneously, dimension tables, housing key descriptors, are shaped to provide context and granularity to the analysis.
+
+This intricate interplay between fact and dimension tables serves as the bedrock upon which subsequent analyses and the final Power BI dashboard are constructed.
