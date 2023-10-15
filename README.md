@@ -64,4 +64,12 @@ The initial stride in refining the Target table involved a crucial transformatio
 ![Image 4](https://github.com/Lawal-faruq/FORGGITH-PHARMACEUTICALS-SALES-REPORT/assets/107109677/619c0d9d-9f5c-46d0-9381-34ab7bc5bb3f)
 
 **Creating Date Columns:**
+
 The journey to refine the Target table continued with a pivotal step—merging the month and year columns. This harmonious union resulted in the creation of a cohesive date column, lending temporal context to the dataset. Such a transformation not only enhances the structure of the data but also opens avenues for time-based analyses, enriching the depth of insights derived from the Power BI reports.
+
+![Image 5](https://github.com/Lawal-faruq/FORGGITH-PHARMACEUTICALS-SALES-REPORT/assets/107109677/5993d8fa-414b-4285-880c-ab5fa289c4d7)
+
+**Refining Datatypes:**
+
+In the concluding phase of Target table transformation, meticulous attention was devoted to refining datatypes. Specifically, the month column underwent a transformation, transitioning into a date datatype. This final adjustment not only ensures data consistency but also aligns with the standardized format conducive to seamless integration within the Power BI framework.
+
