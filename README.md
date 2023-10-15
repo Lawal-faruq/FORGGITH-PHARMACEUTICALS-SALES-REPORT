@@ -53,3 +53,10 @@ With the dataset thoroughly understood and the dashboard design envisioned, the 
 
 A pivotal facet of the transformation centered on the Target table, a linchpin in our analysis. The current state of the Target data, as illustrated below, posed challenges to the depth of our insights. Consequently, strategic transformations were applied to elevate the data's quality, setting the stage for robust analysis and informed decision-making.
 
+![Image 3](https://github.com/Lawal-faruq/FORGGITH-PHARMACEUTICALS-SALES-REPORT/assets/107109677/1aa71b23-66e7-4f96-beaa-dd891854f4c7)
+
+Let's describe the first transformation step:
+
+**Unpivoting for Enhanced Readability:**
+
+The initial stride in refining the Target table involved a crucial transformation: unpivoting the year columns. This strategic move was instrumental in reshaping the data, fostering a more streamlined and accessible format. The resulting configuration not only enhances readability but also lays the groundwork for more dynamic and insightful analyses.
