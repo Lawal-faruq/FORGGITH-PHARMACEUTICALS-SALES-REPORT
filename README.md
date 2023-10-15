@@ -60,3 +60,8 @@ Let's describe the first transformation step:
 **Unpivoting for Enhanced Readability:**
 
 The initial stride in refining the Target table involved a crucial transformation: unpivoting the year columns. This strategic move was instrumental in reshaping the data, fostering a more streamlined and accessible format. The resulting configuration not only enhances readability but also lays the groundwork for more dynamic and insightful analyses.
+
+![Image 4](https://github.com/Lawal-faruq/FORGGITH-PHARMACEUTICALS-SALES-REPORT/assets/107109677/619c0d9d-9f5c-46d0-9381-34ab7bc5bb3f)
+
+**Creating Date Columns:**
+The journey to refine the Target table continued with a pivotal step—merging the month and year columns. This harmonious union resulted in the creation of a cohesive date column, lending temporal context to the dataset. Such a transformation not only enhances the structure of the data but also opens avenues for time-based analyses, enriching the depth of insights derived from the Power BI reports.
