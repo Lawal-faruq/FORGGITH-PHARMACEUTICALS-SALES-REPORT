@@ -122,4 +122,4 @@ Adding a layer of interactivity, a dynamic tooltip enhances the user experience.
 
 This Product Page serves as a comprehensive narrative, guiding stakeholders through the intricacies of sales representative performances and highlighting top-performing products.
 
-You Can interact with the dashboard here
+You Can interact with the dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiNGEzZTQyZmMtNThmZS00OTg5LWExYzktMzNhMzZiY2E0Y2JjIiwidCI6ImJmZjBmNjg0LTQ0NDItNGNhNi05ODFmLTJlZjY2ZTE1ZDI2NSJ9)
