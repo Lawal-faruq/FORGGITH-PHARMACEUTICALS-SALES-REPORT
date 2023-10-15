@@ -103,10 +103,19 @@ Key Highlights:
 This page serves as a valuable lens for external stakeholders, providing a comprehensive snapshot of Forggith Pharmaceuticals' business performance. The nuanced insights empower decision-makers to gauge the company's trajectory, identify areas of strength, and address challenges strategically.
 
 
-Within the Executive Page, a nuanced exploration of revenue dynamics reveals compelling trends for Forggith Pharmaceuticals.
+![Image 10](https://github.com/Lawal-faruq/FORGGITH-PHARMACEUTICALS-SALES-REPORT/assets/107109677/77f0fc57-8148-4d86-a9be-0573405c630d)
+
+While the Executive Page, a nuanced exploration of revenue dynamics reveals compelling trends for Forggith Pharmaceuticals.
 The foremost revenue generator is the Analgesics product category, boasting an impressive $2.31 billion, closely followed by Antiseptics, contributing significantly with $2.15 billion.
 City-wise, Butzbach emerges as a standout revenue contributor, injecting a substantial $96 million into the company's financial stream.
 The Pharmacy channel takes center stage in sales, commanding 52.9% of the market share.
 To provide deeper insights, a dynamic tooltip enriches the Total Revenue by Sales Channel. This feature unveils the top three sales representatives, showcasing their individual revenue contributions. Additionally, a detailed breakdown of quantity sold by product name enhances understanding of sales performance.
 
-This executive-level overview equips leadership with a comprehensive understanding of critical revenue drivers, facilitating strategic decision-making.
+
+The Product Page, a detailed exploration of sales representative performance unfolds, delving into the attainment of revenue targets.
+
+The focal point of this analysis is the comparison between designated revenue targets and the actual revenue achieved by each sales representative. This scrutiny provides a nuanced understanding of individual performances, shedding light on areas of success and potential growth.
+On the Total Revenue by Product Name chart, Ionclotide emerges as the standout product, contributing a remarkable $168 million to the company's revenue stream.
+Adding a layer of interactivity, a dynamic tooltip enhances the user experience. Hovering over the chart unveils the top ten cities driving product sales, complete with insights into total quantity sold and the achievement percentage against predefined targets.
+This Product Page serves as a comprehensive narrative, guiding stakeholders through the intricacies of sales representative performances and highlighting top-performing products.
+
